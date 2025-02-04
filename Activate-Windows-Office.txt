@@ -1,4 +1,4 @@
-copy>>>>>------|    irm https://get.activated.win | iex    |------<<<<<copy
+copy>>>>>   irm https://get.activated.win | iex
 
 
 1: copy the above text and run it on PowerShell and follow the simple steps to Activate Windows and Office for free in less than 30sec, required internet connection!!!!
