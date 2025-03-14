@@ -5,6 +5,7 @@ copy>>>>>   irm https://get.activated.win | iex
 
 
 2: uploaded on GitHub by @faisalhrbk
+updated
 
 
 ----- i don't own the script as the credit goes to respected owners------
