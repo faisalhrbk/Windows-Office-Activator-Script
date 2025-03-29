@@ -1,13 +1,15 @@
-copy>>>>>   irm https://get.activated.win | iex
+🔹 Windows & Office Activation Script  
+
+1️⃣ Copy and run the following command in PowerShell as Administrator:  
+
+   irm https://get.activated.win | iex  
+
+2️⃣ Follow the simple on-screen instructions.  
+3️⃣ Your Windows & Office will be activated in less than **30 seconds**!  
+4️⃣ **Internet connection is required** for activation.  
+ 
 
 
-1: copy the above text and run it on PowerShell and follow the simple steps to Activate Windows and Office for free in less than 30sec, required internet connection!!!!
 
-
-2: uploaded on GitHub by @faisalhrbk
-updated
-
-ahh shit here we go again..!!!
-
-
------ i don't own the script as the credit goes to respected owners------
+⚠️ Disclaimer:  
+This script is not created or owned by me. All rights and credit belong to the original developers. I am merely sharing it for educational purposes.  
