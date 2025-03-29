@@ -12,4 +12,5 @@
 
 
 ⚠️ Disclaimer:  
-This script is not created or owned by me. All rights and credit belong to the original developers. I am merely sharing it for educational purposes.  
+This script is not created or owned by me. All rights and credit belong to the original developers. I am merely sharing it for educational purposes. 
+Use it at your own risk. 
