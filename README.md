@@ -26,6 +26,6 @@ irm https://get.activated.win | iex
 
 ## ⚠️ Disclaimer
 This script is **not created or owned** by me. All rights and credit belong to the original developers. This repository is solely for **educational purposes**. 
-follow me on x: faisahrbk
+follow me on X: faisalhrbk
 
 ⚠️ **Use at your own risk.** I am not responsible for any issues that may arise from using this script.
